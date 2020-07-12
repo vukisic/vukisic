@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
-### I am Vuk Isic, a student from Serbia. 
+### I am Vuk Isic.
 #### ⚡ I study Applied Software Engineering at the Faculty of Technical Science in Novi Sad. 
 #### ⚡ I’m interested in software engineering, especially in .NET Framework. 
 #### ⚡ In the past few years, I have worked on many independent projects alongside my formal education.
