@@ -36,4 +36,4 @@
  
 ### 🔭 I’m currently working on my BCs
 
-### <strong><i>Fell free to contact me!</i></strong> [💬](mailto:vukisic97@gmail.com)
+### 📫 <strong><i>Fell free to contact me!</i></strong> [💬](mailto:vukisic97@gmail.com)
